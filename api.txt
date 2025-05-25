@@ -1,0 +1,2 @@
+admin@example.com
+your_chainlink_password

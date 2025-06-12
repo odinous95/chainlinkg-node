@@ -78,14 +78,3 @@ Example EVM node services:
 * [Chainlink GitHub](https://github.com/smartcontractkit/chainlink)
 
 ---
-
-## License
-
-MIT
-
-```
-
----
-
-Let me know if you'd like to add instructions for persistence (e.g., database volumes), authentication, or using Docker Compose.
-```
